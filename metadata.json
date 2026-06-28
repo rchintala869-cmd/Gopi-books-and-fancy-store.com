@@ -1,0 +1,6 @@
+{
+  "name": "Gopi Books and Fancystore",
+  "description": "Premium online catalog and ordering system for books, stationery, and fancy items with secure UPI and WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
